@@ -11,3 +11,4 @@ numpy==1.24.2
 regex==2023.3.23
 tqdm==4.65.0
 Werkzeug==2.2.3
+gunicorn==20.0.4
